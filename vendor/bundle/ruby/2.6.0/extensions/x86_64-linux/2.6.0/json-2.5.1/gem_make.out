@@ -1,0 +1,13 @@
+current directory: /home/dnunez/phase-0-html-tables-lab/vendor/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+/usr/share/rvm/rubies/ruby-2.6.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210212-2867-1hkyase.rb extconf.rb
+creating Makefile
+
+current directory: /home/dnunez/phase-0-html-tables-lab/vendor/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\= clean
+
+current directory: /home/dnunez/phase-0-html-tables-lab/vendor/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/dnunez/phase-0-html-tables-lab/vendor/bundle/ruby/2.6.0/gems/json-2.5.1/ext/json
+make DESTDIR\= install
